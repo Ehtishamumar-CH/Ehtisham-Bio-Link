@@ -72,7 +72,7 @@ export default function Home() {
       </div>
       <footer className="mt-8 text-center">
         <p className="text-sm text-muted-foreground">
-          Powered by Linkify Bio &copy; {new Date().getFullYear()}
+          Powered by O3 web tecnologies &copy; {new Date().getFullYear()}
         </p>
       </footer>
     </main>
