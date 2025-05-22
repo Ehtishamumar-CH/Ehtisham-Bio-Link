@@ -39,7 +39,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center bg-background p-4 sm:p-6 md:p-8">
       <div className="w-full max-w-md">
-        <div className="space-y-8 rounded-xl bg-card p-6 py-10 shadow-2xl shadow-accent sm:p-8 sm:py-12">
+        <div className="space-y-8 rounded-xl bg-card p-6 py-10 shadow-lg hover:shadow-2xl hover:shadow-accent transition-shadow duration-300 ease-in-out sm:p-8 sm:py-12">
           <div className="flex flex-col items-center space-y-4">
             <Image
               src="https://placehold.co/128x128.png"
