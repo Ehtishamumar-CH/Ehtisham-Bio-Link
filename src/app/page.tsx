@@ -54,8 +54,8 @@ export default function Home() {
               <h1 className="text-3xl sm:text-4xl font-bold text-foreground">
                 Ehtisham Umar
               </h1>
-              <p className="mt-2 text-base sm:text-lg text-muted-foreground max-w-xs sm:max-w-sm">
-              Senior Frontend Developer with 6+ years in UI/UX, Development, AI Automation, and Branding. I specialize in scalable web applications, design systems, and agile workflows.
+              <p className="mt-2 text-base sm:text-md text-muted-foreground max-w sm:max-w-sm">
+              UI/UX Engineer focused on AI-powered development and automation. I specialize in scalable apps, design systems, and agile workflows.
               </p>
             </div>
           </div>
