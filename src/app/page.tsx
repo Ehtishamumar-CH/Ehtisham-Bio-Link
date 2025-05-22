@@ -51,10 +51,10 @@ export default function Home() {
           />
           <div className="text-center">
             <h1 className="text-3xl sm:text-4xl font-bold text-foreground">
-              Your Name / Handle
+              Ehtisham Umar
             </h1>
             <p className="mt-2 text-base sm:text-lg text-muted-foreground max-w-xs sm:max-w-sm">
-              A short and sweet bio introducing yourself. Passionate about creating amazing digital experiences.
+              Senior Frontend Developer with 6+ years in UI/UX, Development, AI Automation, and Branding. I specialize in scalable web applications, design systems, and agile workflows.
             </p>
           </div>
         </div>
