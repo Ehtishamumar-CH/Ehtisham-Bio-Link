@@ -67,7 +67,7 @@ export default {
   			sm: 'calc(var(--radius) - 4px)'
   		},
       boxShadow: {
-        'symmetrical-glow': '0 0 30px 8px hsl(var(--accent) / 0.5)',
+        'symmetrical-glow': '0 0 30px 8px hsl(var(--accent) / 0.3)',
       },
   		keyframes: {
   			'accordion-down': {
@@ -88,7 +88,7 @@ export default {
   			}
   		},
   		animation: {
-  			'accordion-down': 'accordion-down 0.2s ease-out',
+  			'accordion-down': 'accordion-down 0.3s ease-out',
   			'accordion-up': 'accordion-up 0.2s ease-out'
   		}
   	}
