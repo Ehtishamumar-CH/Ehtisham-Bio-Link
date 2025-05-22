@@ -5,13 +5,13 @@ import { Github, Globe, Linkedin, Mail, Twitter } from 'lucide-react';
 export default function Home() {
   const links = [
     {
-      href: "https://example.com/portfolio",
+      href: "https://ehtisham-umar.netlify.app/",
       icon: <Globe />,
       text: "My Portfolio / Website",
       dataAiHint: "portfolio website"
     },
     {
-      href: "https://github.com/yourusername",
+      href: "https://github.com/Ehtishamumar-CH",
       icon: <Github />,
       text: "GitHub Profile",
       dataAiHint: "github code"
@@ -23,13 +23,13 @@ export default function Home() {
       dataAiHint: "linkedin professional"
     },
     {
-      href: "https://twitter.com/yourusername",
+      href: "https://x.com/EhtishamUmar_CH",
       icon: <Twitter />,
       text: "Follow me on X (Twitter)",
       dataAiHint: "twitter social"
     },
     {
-      href: "mailto:youremail@example.com",
+      href: "mailto:ehtishamumar327@gmail.com",
       icon: <Mail />,
       text: "Send me an Email",
       dataAiHint: "email contact"
@@ -39,7 +39,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center bg-background p-4 sm:p-6 md:p-8">
       <div className="w-full max-w-md">
-        <div className="space-y-8 rounded-xl bg-card p-6 py-10 shadow-lg hover:shadow-2xl hover:shadow-accent transition-shadow duration-300 ease-in-out sm:p-8 sm:py-12">
+        <div className="space-y-8 rounded-xl bg-card p-6 py-10 shadow-lg hover:shadow-symmetrical-glow transition-shadow duration-300 ease-in-out sm:p-8 sm:py-12">
           <div className="flex flex-col items-center space-y-4">
             <Image
               src="https://placehold.co/128x128.png"
